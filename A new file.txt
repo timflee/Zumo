@@ -1,1 +1,2 @@
 First line of file
+I did it again. Added a second line
